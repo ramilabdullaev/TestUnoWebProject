@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "TestUnoWebProject",
+  "display": "standalone",
+  "name": "TestUnoWebProject",
+  "short_name": "TestUnoWebProject",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
